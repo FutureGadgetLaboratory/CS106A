@@ -1,4 +1,4 @@
-# CS106A
+# Programming Methodology
 
 **Topics**
 -----------
