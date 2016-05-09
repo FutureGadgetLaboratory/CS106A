@@ -6,7 +6,7 @@ Topics focus on the introduction to the engineering of computer applications emp
 
 **Focus**
 ----------
-- object-oriented design
+- Object-oriented design
 - Decomposition
 - Encapsulation
 - Abstraction
